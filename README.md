@@ -33,7 +33,7 @@ I thrive on projects that challenge me to integrate electronics with intelligent
 ### 📲 Connect With Me
 
 <a href="https://www.linkedin.com/in/ayusham-mishra-461928290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Ayusham%20Mishra-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://x.com/AyushamM?t=mQqmAdIXojKHRB6_EqfK8w&s=08"><img src="https://img.shields.io/badge/X%20(Twitter)-@AyushamM-1DA1F2?style=for-the-badge&logo=twitter" alt="X (Twitter)"></a>
+
 
 </div>
 
