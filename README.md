@@ -12,7 +12,7 @@ I am passionate about exploring multidimensional technologies that seamlessly bl
 - **Machine Learning**
 - **Computer Vision**: YOLO,SAM
 - **Deep Learning**
-- **Autonomous Navigation for GPS Denied Environments**: Particle filter,EKF,SLAM,VIO,LIO,Heirarchial Path planning($A^*$,      Hybrid $A^*$$D^*$ Lite)
+- **Autonomous Navigation for GPS Denied Environments**: Particle filter,EKF,SLAM,VIO,LIO,Heirarchial Path planning(A^*,      Hybrid A^*,D^* Lite)
 - **PCB Designing & Sensor Integration**
 - **Arduino Projects & FPV Drone Building**
 - **Programming:** Java, Python, DSA  
